@@ -33,4 +33,4 @@ R, Shiny, shinydashboard, Plotly, DT, dplyr, lubridate, ggplot2
 | `tnstc_volvo_bus.R` | Main Shiny app code |
 | `tnstc_volvo_dynamic_pricing.csv` | Booking dataset |
 ## 📱 App Preview
-![App Demo](tnstc-demo.gif)
+![App Demo](TNSTC_APP.gif)
